@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "F6436FAB81AD0867B1714EBC309C0391",
+  "keywordClasses": [
+    {
+      "name": "com.voila.login",
+      "keywordMethods": [
+        {
+          "name": "handlingPopup",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

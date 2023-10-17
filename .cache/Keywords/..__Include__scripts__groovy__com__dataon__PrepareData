@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "2282B6F132EDF186E048280611B9C464",
+  "keywordClasses": [
+    {
+      "name": "com.dataon.PrepareData",
+      "keywordMethods": [
+        {
+          "name": "dataPrepLoginEmail",
+          "parameters": [
+            {
+              "name": "rowNo",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
